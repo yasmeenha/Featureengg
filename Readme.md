@@ -1,4 +1,4 @@
-# Power Outage Insight: Feature Engineering in Time Series Analysis
+# Power Outage Insights: Feature Engineering in Time Series Analysis
 
 
 ## Project Overview
