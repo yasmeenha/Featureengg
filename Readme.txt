@@ -1,6 +1,5 @@
 
-##
-Dataset:
+## Dataset:
 
 The dataset used is the Eagle-I power dataset from the SMC dataset challenge 2023. 
 The dataset consists of 4 years of power outage data between 2018 and 2022 for each county of united states with an interval of 15 mins,collected it through a process of ETL from public outage maps of utility. The columns present in this dataset are ‘fips_code’, ‘county’, ‘state’, and ‘sum’ 
