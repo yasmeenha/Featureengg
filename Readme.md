@@ -12,8 +12,8 @@ which is collected from 2071 airport-based weather stations nationwide.
 Datasets link:
 
 Eagle-I power dataset: https://smc-datachallenge.ornl.gov/eagle/
-Weather dataset:
-https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events/data
+
+Weather dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events/data
 
 ## Methodology
 1. *Data Preprocessing*: Combining power outage and weather datasets and handling missing values.
