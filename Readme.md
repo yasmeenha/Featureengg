@@ -1,5 +1,6 @@
 # Power Outage Insight: Feature Engineering in Time Series Analysis
 
+
 ## Project Overview
 
 This project aims to analyze power outage data in conjunction with weather conditions to uncover underlying patterns and relationships. The focus is on power outages in Lee County, Florida, from 2018 to 2022, and how various weather conditions might influence these outages.
